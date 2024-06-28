@@ -47,13 +47,13 @@ const Hero = () => {
             Hi, I&apos;m Nathaniel, a React Developer Based in the US.
           </p>
 
-          <a href="about">
+          {/* <a href="about">
             <MagicButton
               title="Show my Work"
               icon={<FaLocationArrow />}
               position="right"
             />
-          </a>
+          </a> */}
         </div>
       </div>
     </div>

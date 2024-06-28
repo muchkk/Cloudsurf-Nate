@@ -11,7 +11,7 @@ export const gridItems = [
     title: "I have an eye for detail and experience in UAT",
     description: "",
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
-    imgClassName: "w-full h-full",
+    imgClassName: "w-full h-full object-cover object-top",
     titleClassName: "justify-end",
     img: "/IMG_1412.jpg",
     spareImg: "",
@@ -206,13 +206,13 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    url: "https://github.com/muchkk",
+    name: "git link",
   },
   {
     id: 2,
-    img: "/twit.svg",
-  },
-  {
-    id: 3,
     img: "/link.svg",
+    url: "https://www.linkedin.com/in/nate-von-hartleben-4308a3203/",
+    name: "linkdin link",
   },
 ];
